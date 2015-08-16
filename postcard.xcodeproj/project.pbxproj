@@ -13,6 +13,8 @@
 		220B8C841B7FDFB700EFB0FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 220B8C831B7FDFB700EFB0FF /* Images.xcassets */; };
 		220B8C871B7FDFB700EFB0FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 220B8C851B7FDFB700EFB0FF /* LaunchScreen.xib */; };
 		220B8C931B7FDFB700EFB0FF /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220B8C921B7FDFB700EFB0FF /* postcardTests.swift */; };
+		220B8C9D1B8032DC00EFB0FF /* BerlinTVTower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 220B8C9C1B8032DC00EFB0FF /* BerlinTVTower.jpg */; };
+		220B8C9F1B8039A400EFB0FF /* 1280px-Albert_Einstein_1979_USSR_Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 220B8C9E1B8039A400EFB0FF /* 1280px-Albert_Einstein_1979_USSR_Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		220B8C8C1B7FDFB700EFB0FF /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		220B8C911B7FDFB700EFB0FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		220B8C921B7FDFB700EFB0FF /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		220B8C9C1B8032DC00EFB0FF /* BerlinTVTower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BerlinTVTower.jpg; sourceTree = "<group>"; };
+		220B8C9E1B8039A400EFB0FF /* 1280px-Albert_Einstein_1979_USSR_Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1280px-Albert_Einstein_1979_USSR_Stamp.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		220B8C7A1B7FDFB700EFB0FF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				220B8C9E1B8039A400EFB0FF /* 1280px-Albert_Einstein_1979_USSR_Stamp.jpg */,
+				220B8C9C1B8032DC00EFB0FF /* BerlinTVTower.jpg */,
 				220B8C7B1B7FDFB700EFB0FF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +199,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				220B8C821B7FDFB700EFB0FF /* Main.storyboard in Resources */,
+				220B8C9F1B8039A400EFB0FF /* 1280px-Albert_Einstein_1979_USSR_Stamp.jpg in Resources */,
 				220B8C871B7FDFB700EFB0FF /* LaunchScreen.xib in Resources */,
 				220B8C841B7FDFB700EFB0FF /* Images.xcassets in Resources */,
+				220B8C9D1B8032DC00EFB0FF /* BerlinTVTower.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
