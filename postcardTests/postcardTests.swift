@@ -2,9 +2,6 @@
 //  postcardTests.swift
 //  postcardTests
 //
-//  Created by Sam Thomas on 8/15/15.
-//  Copyright (c) 2015 Audacious Engineering LLC. All rights reserved.
-//
 
 import UIKit
 import XCTest
